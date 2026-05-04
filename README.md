@@ -3,7 +3,7 @@
 # **<img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 /> <a href="https://github.com/FunsyMe/">FunsyMe</a><a href="https://github.com/FunsyMe/orbitus-service-community">/orbitus-service-community</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />**
 </div>
 
-### Процесс предложения - Issue
+### Предложение плагина - Issue
 Перед началом разработки необходимо создать **Issue** с идеей Вашего плагином по следующему шаблону:
 
 | Поле | Описание |
